@@ -1,15 +1,29 @@
 <h1 align="center">
-  모던 자바스크립트 Deep Dive 스터디
+  JS Study
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/github/license/pyeonne/js-study" />
+  <img src="https://img.shields.io/github/commit-activity/m/pyeonne/js-study" />
+  <img src="https://img.shields.io/github/last-commit/pyeonne/js-study"  />
+</p>
+
+## 👩‍💻 소개
+
+[모던 자바스크립트 Deep Dive](http://www.yes24.com/Product/Goods/92742567?OzSrank=1) 책을 토대로 자바스크립트 개념을 공부하고 글로 정리하는 공간입니다.
+
+<br>
 
 ## 🎯 목표
 
+-   매일 꾸준히 공부해서 성취감을 느낍니다.
 -   책의 예제코드를 실행하고 분석합니다.
 -   본문을 빠르게 스키밍합니다.
 -   이미 알고 있는 지식을 재확인합니다.
--   각자의 지식을 수정하고 보완합니다.
+-   공부한 개념을 글로 정리해봄으로써 글쓰기 실력도 키웁니다.
+-   기술면접에 대비합니다.
 
-<br>
+    <br>
 
 ## 📚 진행 상황
 
@@ -34,3 +48,11 @@
 
 -   [11장 원시 값과 객체의 비교](/docs/11-원시값과객체의비교.md)
 -   [12장 함수](/docs/12-함수.md)
+
+### 4주차
+
+**2021.10.15 ~ 2021.10.21**
+
+-   [13장 스코프](/docs/13-스코프.md)
+-   [14장 전역 변수의 문제점](/docs/14-전역변수의문제점.md)
+-   [15장 let, const 키워드와 블록 레벨 스코프](/docs/15-letconst키워드와블록레벨스코프.md)
